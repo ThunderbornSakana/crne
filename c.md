@@ -34,4 +34,4 @@ Finally we show the ranges for the Tencent dataset. We chose FiBiNET as the base
 | lambda (DANN)                   |  0.0005, 0.001, 0.005, 0.01   |
 | $H$                             |  0.5, 1, 1.5, 2, 2.5          |
 
-The best combinations of hyperparameters on all three datasets can be found in the configs.json file in our open-sourced code.
+The best combinations of hyperparameters on all three datasets can be found in the **configs.json file in our open-sourced code**.
